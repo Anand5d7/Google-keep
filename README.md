@@ -1,4 +1,4 @@
-# Notes App
+# Google Notes App
 
 ## Overview
 
@@ -18,7 +18,7 @@ The Notes App is a simple web application designed for managing notes. It featur
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/notes-app.git
+    git clone https://github.com/Anand5d7/Google-keep-Notes.git
     cd notes-app
     ```
 
